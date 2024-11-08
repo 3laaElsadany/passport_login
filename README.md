@@ -1,3 +1,14 @@
 # Node.js & Passport Login
 
-This app about user login and registration using Node.js, Express, Passport, Mongoose, EJS and some other packages
+This is a simple Node.js application integrated with Passport.js for implementing login functionality using strategies like `local`.
+
+## Requirements
+- Node.js
+- Express
+- Passport.js
+- MongoDB (or other database configurations)
+
+## How to Run
+1. Install dependencies:
+   ```bash
+   npm install
